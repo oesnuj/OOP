@@ -1,0 +1,5 @@
+﻿  prob3.cpp
+C:\Users\Junseo\source\repos\ObjectOrientedCpp\homework3\prob3\prob3.cpp(81,18): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Junseo\source\repos\ObjectOrientedCpp\homework3\prob3\prob3.cpp(129,38): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Junseo\source\repos\ObjectOrientedCpp\homework3\prob3\prob3.cpp(132,33): warning C4244: '=': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  prob3.vcxproj -> C:\Users\Junseo\source\repos\ObjectOrientedCpp\homework3\x64\Debug\prob3.exe
